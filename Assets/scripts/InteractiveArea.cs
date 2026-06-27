@@ -5,11 +5,15 @@ using UnityEngine;
 public class InteractiveArea : MonoBehaviour
 {
     private int score = 0;
+    public int puntajeMaximoVictoria = 5;
+    
     private UIManager uiManager;
+    private GameManager gameManager;
 
     private void Awake()
     {
         uiManager = FindObjectOfType<UIManager>();
+        gameManager = FindObjectOfType<GameManager>();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -24,6 +28,14 @@ public class InteractiveArea : MonoBehaviour
             }
 
             Destroy(other.gameObject);
+
+            if (score >= puntajeMaximoVictoria)
+            {
+                if (gameManager != null)
+                {
+                    gameManager.TerminarPartida(true);
+                }
+            }
         }
     }
 }
