@@ -66,7 +66,87 @@ ModelImporter:
     4300012: paredes celestes
     4300014: paredes rosas
     4300016: texho
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 073349a6f2004434a907727a6ecf325a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrisMetalico
+    second: {fileID: 2100000, guid: fb96d308a5c98c24b9ed8b105917b0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrisMetalicoOscuro
+    second: {fileID: 2100000, guid: b9f35786b4ca6cb428081634dc1cef80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 3a34ad11052d3cb4083c339d36760fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 7651677dea06817498be33c7c55c93ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: fef7f0faa47aee641b4658959e78c4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nada
+    second: {fileID: 2100000, guid: 3c566e5156f354c4c986134c1bb8714d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParedBlanca_textura
+    second: {fileID: 2100000, guid: 5f86f6c9a766480408d729e89bab198e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textuas_paredCeleste
+    second: {fileID: 2100000, guid: 85f9ee20b5c09d746af4a72624ed4a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura_madera
+    second: {fileID: 2100000, guid: ed13ad8ab07752143afbe9f35de1ca61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura_paredesBlancas
+    second: {fileID: 2100000, guid: f59f9e730edc3f745a822b550876f1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura_piso.001
+    second: {fileID: 2100000, guid: caaf97e01e4f4464182bf95ad1f70855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textura_techo
+    second: {fileID: 2100000, guid: 3475c1fceff46a24ab4c604926a3bc65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera
+    second: {fileID: 2100000, guid: ad8e70dd60e54d84f8662eaf69f6e9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: textura_columnas
+    second: {fileID: 2100000, guid: 71f83b2ebb6651e4dbb5cb4e08f7524c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrio.001
+    second: {fileID: 2100000, guid: 34c0fbf7dfb5d5144b054940b3d898df, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
