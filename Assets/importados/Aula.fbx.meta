@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 2aba72dfc8d350541976f0be8c4bd37d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: madera
+    100006: paredes blancas
+    100008: paredes blancas 2
+    100010: paredes celestes
+    100012: paredes rosas
+    100014: Piso
+    100016: Puerta
+    100018: texho
+    400000: //RootNode
+    400002: Cube
+    400004: madera
+    400006: paredes blancas
+    400008: paredes blancas 2
+    400010: paredes celestes
+    400012: paredes rosas
+    400014: Piso
+    400016: Puerta
+    400018: texho
+    2100000: Nada
+    2100002: GrisMetalicoOscuro
+    2100004: GrisMetalico
+    2100006: vidrio.001
+    2100008: Material.001
+    2100010: madera
+    2100012: Gris
+    2100014: Textura_piso.001
+    2100016: Material.002
+    2100018: Textura_madera
+    2100020: ParedBlanca_textura
+    2100022: Material
+    2100024: Textura_paredesBlancas
+    2100026: Textuas_paredCeleste
+    2100028: textura_columnas
+    2100030: Textura_techo
+    2300000: Cube
+    2300002: madera
+    2300004: paredes blancas
+    2300006: paredes blancas 2
+    2300008: paredes celestes
+    2300010: paredes rosas
+    2300012: Piso
+    2300014: Puerta
+    2300016: texho
+    3300000: Cube
+    3300002: madera
+    3300004: paredes blancas
+    3300006: paredes blancas 2
+    3300008: paredes celestes
+    3300010: paredes rosas
+    3300012: Piso
+    3300014: Puerta
+    3300016: texho
+    4300000: Cube
+    4300002: Piso
+    4300004: Puerta
+    4300006: madera
+    4300008: paredes blancas
+    4300010: paredes blancas 2
+    4300012: paredes celestes
+    4300014: paredes rosas
+    4300016: texho
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
